@@ -1,0 +1,36 @@
+[
+  {
+    "id": "ebook1",
+    "title": "Mastering Productivity",
+    "price": "9.99",
+    "cover": "/ebook1-cover.png",
+    "file": "/ebook1.pdf",
+    "features": [
+      "🔥 Key strategy #1 that changes everything",
+      "💡 Simple methods you can apply today",
+      "🚀 Step-by-step roadmap to success"
+    ],
+    "about": "This ebook teaches you proven strategies to improve productivity.",
+    "testimonials": [
+      "Helped me focus better – Alex",
+      "Best productivity guide I've read – Sam"
+    ]
+  },
+  {
+    "id": "ebook2",
+    "title": "Learn React Fast",
+    "price": "14.99",
+    "cover": "/ebook2-cover.png",
+    "file": "/ebook2.pdf",
+    "features": [
+      "⚛️ Understand React basics quickly",
+      "🔄 Learn state and props in simple steps",
+      "⚡ Build your first React app today"
+    ],
+    "about": "A beginner-friendly guide to React.js with hands-on examples.",
+    "testimonials": [
+      "Made React finally click for me – Jane",
+      "Great for beginners! – Mike"
+    ]
+  }
+]
